@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @kamaldkd
-- ⚡ I'm currently Intern at JP Morgan as a Software Engineer
+- ⚡ I'm currently Intern at JP Morgan 
+Chase as a Software Engineer
 - 😄 I'm currently in IInd year of my college (B.tech CS) journey
 - 📫 How to reach me ... email :- kamaldkd09@gmail.com
 
