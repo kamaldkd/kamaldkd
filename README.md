@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kamaldkd
-- 😄 I'm currently in IInd year of my college (B.tech CS) journey
+- 😄 I'm currently in IIIrd year of my college (B.tech CS) journey
 - 📫 How to reach me ... email :- kamaldkd09@gmail.com
 
 <!---
