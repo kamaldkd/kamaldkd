@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Live_Project-Thoughts-orange?style=for-the-badge" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://linkedin.com/in/kamaldhakad">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge" />
   </a>
 </p>
@@ -98,7 +98,7 @@ A full-stack MERN application where users share thoughts, interact with posts, a
 ## 🤝 Let’s Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://linkedin.com/in/kamaldhakad">
     <img src="https://img.shields.io/badge/LinkedIn-Kamal_Dhakad-blue?style=for-the-badge&logo=linkedin" />
   </a>
   &nbsp;&nbsp;
