@@ -71,7 +71,7 @@ I focus on **daily progress**, not quick wins.
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,mongodb,tailwind,git,github,postman,vite" />
+  <img src="https://skillicons.dev/icons?i=java,react,ts,js,nodejs,express,mongodb,tailwind,git,github,postman,vite" />
 </p>
 
 <br/>
