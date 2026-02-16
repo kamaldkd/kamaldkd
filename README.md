@@ -29,8 +29,6 @@
 - 🎓 3rd-year Engineering Student  
 - 💻 MERN Stack Developer (React, Node, MongoDB)  
 - 🧠 Interested in **DSA & problem-solving**
-- 🎯 Goal: **Software Engineer at a top MNC**
-- 🗣️ Improving **English communication & interviews**
 
 I focus on **daily progress**, not quick wins.
 
