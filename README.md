@@ -88,6 +88,7 @@ A full-stack MERN application where users share thoughts, interact with posts, a
 - Protected Routes
 - Cloudinary Media Uploads
 - Responsive UI
+- Infinite Scroll
 - Production Deployment
 
 <br/>
