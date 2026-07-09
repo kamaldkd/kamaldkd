@@ -26,7 +26,7 @@
 <!-- ===================== ABOUT ===================== -->
 ## 🧠 About Me
 
-- 🎓 3rd-year Engineering Student  
+- 🎓 Final-year Engineering Student  
 - 💻 MERN Stack Developer (React, Node, MongoDB)  
 - 🧠 Interested in **DSA & problem-solving**
 
