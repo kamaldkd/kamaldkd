@@ -85,10 +85,13 @@ A full-stack MERN application where users share thoughts, interact with posts, a
 
 **Highlights**
 - JWT Authentication
+- Google OAuth 2.0
+- XSS/CSRF Protection
 - Protected Routes
 - Cloudinary Media Uploads
 - Responsive UI
 - Infinite Scroll
+- Like, Comment and Follow Functionality
 - Production Deployment
 
 <br/>
