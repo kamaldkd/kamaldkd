@@ -112,7 +112,7 @@ A full-stack MERN application where users share thoughts, interact with posts, a
 <br/>
 
 <p align="center">
-  <strong>Small daily progress beats rare intense effort.</strong> 🔥
+  <strong>Small daily progress beats rare intense effort.</strong>
 </p>
 <!---
 kamaldkd/kamaldkd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
